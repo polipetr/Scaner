@@ -1,0 +1,4 @@
+{
+    "servers":[ "google.com", "abv.bg"],
+    "ports" : ["80", "443", "25", "587"]
+}
